@@ -1,5 +1,15 @@
 Use this file to explore the features of the GIT
 
+Delet this line
+
+
 JALA Technologies offers only JOb guaranteed programs
 
 Add your text here 
+
+
+
+Added these two lines
+
+Line one
+Line Two
